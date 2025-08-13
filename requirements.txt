@@ -4,4 +4,4 @@ python-docx
 pillow
 matplotlib
 tqdm
-pandad
+pandas
